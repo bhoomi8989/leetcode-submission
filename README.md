@@ -5,8 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/bhoomi8989/leetcode-submission/tree/master/1672-richest-customer-wealth) |
+| [1929-concatenation-of-array](https://github.com/bhoomi8989/leetcode-submission/tree/master/1929-concatenation-of-array) |
 ## Matrix
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/bhoomi8989/leetcode-submission/tree/master/1672-richest-customer-wealth) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/bhoomi8989/leetcode-submission/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
