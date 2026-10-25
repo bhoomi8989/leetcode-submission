@@ -48,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/bhoomi8989/leetcode-submission/tree/master/1486-xor-operation-in-an-array) |
+## String
+|  |
+| ------- |
+| [1678-goal-parser-interpretation](https://github.com/bhoomi8989/leetcode-submission/tree/master/1678-goal-parser-interpretation) |
 <!---LeetCode Topics End-->
